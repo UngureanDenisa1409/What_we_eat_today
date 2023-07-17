@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "889030086001",
+    "firebase_url": "https://what-we-eat-today-36520-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "what-we-eat-today-36520",
+    "storage_bucket": "what-we-eat-today-36520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889030086001:android:34052cd82968af4438fad0",
+        "android_client_info": {
+          "package_name": "com.example.whatweeattoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889030086001-0525q8fskssta4dr656i3ql8rt612l11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatweeattoday",
+            "certificate_hash": "efd3407e129236e4ba2e72c5e8256b43f2c3fde7"
+          }
+        },
+        {
+          "client_id": "889030086001-71qot33j5u9jt3dcvf34dc26g9s7q5d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7RuqvR4U37GMb_lghYJtfCuuzoZZ4Hzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889030086001-71qot33j5u9jt3dcvf34dc26g9s7q5d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
